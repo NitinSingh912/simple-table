@@ -1,0 +1,6 @@
+table,thead,tbody,tr,th,td{
+    border: 2px solid black;
+}
+label{
+    display: flex;
+}
